@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Assistant",
+  "description": "An AI-powered interview preparation platform where users practice interviews, answer dynamic technical or coding questions, and receive instant feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
